@@ -25,6 +25,7 @@ HTML
        <li><a  style="color:#50c5e9"  href="/exploits/exp.htm">EXPLOITS</a></li>
         </ul>
   </div>
+  <div><h1 id="header1">FILL IN</h1></div>
 
   <div id="bottom-of-screen">
   <a href="https://github.com/ChlorinatedPastries/Cool-Website" target="_blank">Github repo</a>
@@ -71,7 +72,7 @@ generic CSS border and junk
       
     p.double {border-style: double;}  
     background-color:#565656;
-    border: 4px solid #505050 or hsl(199, 77%, 71%); 
+    border: 4px solid #505050 hsl(199, 77%, 71%); 
     border-radius: 12px;
     padding: 5px;
     font-size: 24px;
