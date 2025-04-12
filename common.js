@@ -1,4 +1,4 @@
-function RandomNum() {      //im bored so i made this lol
+/*function RandomNum() {      //im bored so i made this lol
     const ran1 = Math.floor(Math.random() * 100 + 1);
     const ran2 = Math.floor(Math.random() * 100);
     const ran3 = Math.floor(Math.random() * 100);
@@ -68,4 +68,4 @@ function RandomNum() {      //im bored so i made this lol
 
      
     document.getElementById("random-number").innerHTML = numberrandom
-}
+}*/

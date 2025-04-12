@@ -1,3 +1,17 @@
+
+function getRandomSentence() {
+  const name = ["ouewrhjosdjgoisdjgoijgfdj","Technoblade never dies!","Technoblade never dies!","Technoblade never dies!","Technoblade never dies!","Technoblade never dies!","Technoblade never dies!",
+    "engineer gaming","engineer gaming","qwertyuiop","asdfghjkl","zxcvbnm","I... Am Steve.","","","","","","",
+
+   ];
+  const randomIndex = Math.floor(Math.random() * name.length);
+  const result = name[randomIndex];
+  document.getElementById("abcd").innerHTML = result;
+  return result;
+}
+
+
+
 let slideIndex = 1;
 showSlides(slideIndex);
 

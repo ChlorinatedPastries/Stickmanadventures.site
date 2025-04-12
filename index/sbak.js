@@ -26,3 +26,10 @@ function getRandomSentence() {
     const result = fruits[randomIndex];
     return result;
 }
+function idklol2() {
+document.getElementById("title").innerHTML = getRandomSentence();  
+    const name = ["Welcome to stickmanadventures.site! | Technoblade never dies!","Welcome to stickmanadventures.site! | ","Welcome to stickmanadventures.site! | "]
+    const randomIndex = Math.floor(Math.random() * fruits.length);
+    const result = fruits[randomIndex];
+    return result;
+}

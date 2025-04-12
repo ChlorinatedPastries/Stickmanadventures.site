@@ -19,7 +19,7 @@
 }
 #abuotme{
     font-size: 24px;
-    width: 300PX;
+    width: 300X;
     p.double {border-style: double;}  
     background-color:#565656;
     border: 4px solid #505050; 
@@ -109,4 +109,16 @@
 }
 #coolimgs{
   margin-left:50%;
+}
+#abcd{
+  text-align: center;
+  p.double {border-style: double;}  
+    background-color:#565656;
+    border: 4px solid hsl(199, 77%, 71%); 
+    border-radius: 12px;
+    padding: 5px;
+    font-size: 24px;
+    margin: 4.13px;
+    background-image: url("megacools.png");
+    color: #ffffff;
 }
