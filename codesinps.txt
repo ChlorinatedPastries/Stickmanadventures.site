@@ -1,5 +1,4 @@
 HTML
-  Pastries
 <!DOCTYPE html>
 <html lang="en-us">
     <head>
