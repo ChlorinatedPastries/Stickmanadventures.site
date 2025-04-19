@@ -22,7 +22,7 @@ function getRandomSentence() {
 "Snipin's a good job, mate!","JARATE!","This, is the story of a man named Stanly.","top 10 beefy die ahh facts","Hey look, buddy. I'm an engineer — that means I solve problems.","I solve practical problems.","How am I going to stop some big, mean mother hubbard from tearing me a structurally superfluous new behind?","Don't touch the servers","you touched the servers","Bröther may I have some öats?","Lorem Ipsum I am a div dolor sit amet.","You can't escape you know?","Stop what you are doing."
 ,"You're not a good person","Medic!","Chicken Jocky!","Flint and steel!","Ender pearl.","Water bucket, release!","Comin' in hot!","The Nether.","sudo make me a sandvich pls","sudo apt update","RIP KSP","La-la-la-lava","ch-ch-ch-chicken,","Steve's Lava Chicken, yeah, it's tasty as hell","Ooh, mamacita, now you're ringin' the bell","This is some text in a paragraph.","Crispy and juicy, now you're havin' a snack","Ooh, super spicy, it's a lava attaaaaack","WE WHERE BORN TO INHERENT THE STARS.",
 "WE WHERE BORN TO INHERENT THE STARS.","WE WHERE BORN TO INHERENT THE STARS.","WE WHERE BORN TO INHERENT THE STARS.","WE WHERE BORN TO INHERENT THE STARS.","WE WHERE BORN TO INHERENT THE STARS.","WE WHERE BORN TO INHERENT THE STARS.","WE WHERE BORN TO INHERENT THE STARS.","WE WHERE BORN TO INHERENT THE STARS.","WE WHERE BORN TO INHERENT THE STARS.","WE WHERE BORN TO INHERENT THE STARS.","WE WHERE BORN TO INHERENT THE STARS.","WE WHERE BORN TO INHERENT THE STARS.","WE WHERE BORN TO INHERENT THE STARS.",
-,"","","","","","","","","","","","",
+,"Never trust Autosave!","","","","","","","","","","","",
 
      ];
     const randomIndex = Math.floor(Math.random() * fruits.length);
