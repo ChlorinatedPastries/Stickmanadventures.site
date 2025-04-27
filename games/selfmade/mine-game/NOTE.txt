@@ -1,1 +1,2 @@
-MINE GAME has been moved to it's own repo.
+MINE GAME has been moved to it's own repo.\
+https://github.com/ChlorinatedPastries/MINE-GAME

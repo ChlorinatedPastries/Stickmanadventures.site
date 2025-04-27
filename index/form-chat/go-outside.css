@@ -13,11 +13,12 @@
     margin-top: -17.4%;
 }
 #link1{
-    font-size: 36px;
+    font-size: 120px;
     p.double {border-style: double;}  
     background: color #505050;
     border: 4px solid #7ccaee; 
     border-radius: 12px;
     height: 128px;
-    width: 502px;
+    width: 98%;
+    margin-left: 1%;
 }
